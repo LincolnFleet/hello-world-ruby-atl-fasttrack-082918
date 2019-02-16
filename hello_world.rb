@@ -1,2 +1,2 @@
-entry = "hello world"
+def entry = "hello world"
 entry.capitalize
