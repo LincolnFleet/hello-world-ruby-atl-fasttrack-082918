@@ -1,1 +1,2 @@
-puts "hello world"
+def entry ("hello world")
+puts `entry`
