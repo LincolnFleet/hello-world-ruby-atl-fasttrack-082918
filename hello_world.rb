@@ -1,2 +1,2 @@
 entry = "the bird"
-puts "#{entry} is the word}"
+puts "#{entry} is the word"
