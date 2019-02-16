@@ -1,1 +1,2 @@
-puts 'hello world'.upcase
+entry = "hello world"
+entry.titleize
