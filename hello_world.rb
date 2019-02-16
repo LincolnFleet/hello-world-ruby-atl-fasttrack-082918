@@ -1,2 +1,2 @@
 entry = "hello world"
-entry.titleize
+entry.capitalize
