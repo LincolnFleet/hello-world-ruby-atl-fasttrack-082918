@@ -1,2 +1,2 @@
-entry = "hello world"
+entry = puts "hello world"
 entry.capitalize
