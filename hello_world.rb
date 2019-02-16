@@ -1,2 +1,2 @@
-entry = puts "hello world"
-entry.capitalize
+entry = "the bird"
+puts "#{{entry} is the word}"
